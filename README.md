@@ -108,7 +108,7 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <H1>📈 Airline Arrival Analysis</H1> 
 
-<img width="1307" height="736" alt="Screenshot 2025-11-21 004208" src="https://github.com/user-attachments/assets/175ab694-7445-443f-9e1b-a33ae5e9e7f0" />
+<img width="1283" height="737" alt="Screenshot 2025-11-22 010702" src="https://github.com/user-attachments/assets/f0c57efc-5c0f-49e4-acb9-d629a0d70be0" />
 
 <H1>📍Key Insights Summary</H1>
 
@@ -120,7 +120,7 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <H1>⏱️ Flight Delay Metrics</H1>
 
-<img width="1322" height="735" alt="Screenshot 2025-11-21 004225" src="https://github.com/user-attachments/assets/0667abdb-9a18-4a68-a979-7bab8ed25c73" />
+<img width="1290" height="733" alt="Screenshot 2025-11-22 010626" src="https://github.com/user-attachments/assets/1b685157-d0a0-4875-ab8b-930794901fd3" />
 
 <H3>📊 Dashboard Insights</H3>
 
