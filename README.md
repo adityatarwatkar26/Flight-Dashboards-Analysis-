@@ -106,6 +106,18 @@ It enables analysis of airline performance, route trends, and operational effici
 - Very few cancellations
 - Indicates efficient airline operation and good time management
 
+<H1>📈 Airline Arrival Analysis</H1> 
+
+<img width="1307" height="736" alt="Screenshot 2025-11-21 004208" src="https://github.com/user-attachments/assets/175ab694-7445-443f-9e1b-a33ae5e9e7f0" />
+
+<H1>📍Key Insights Summary</H1>
+
+- All airlines have almost equal arrival flight counts, indicating a balanced market presence across carriers like IndiGo, Lufthansa, United Airlines, Emirates, Air India, and Qatar Airways.
+- Average Arrival Time is 0.50, showing stable and consistent arrival timing across all airlines.
+- JFK, DEL, and BOM are the top destinations with the highest number of flights, showing strong international and domestic connectivity.
+- AircraftType usage count is around 15K, reflecting high and consistent fleet utilization across the airline network.
+- Data table confirms heavy flight operations throughout the day, supporting continuous international flight movements.
+- 
 <H3>🚀 Final Summary</H3>
 
 This dataset allows comprehensive analysis of global flight efficiency, helping stakeholders make data-driven decisions for improving aviation operations. With Power BI or any BI tool, this can be transformed into a high-value operational dashboard.
