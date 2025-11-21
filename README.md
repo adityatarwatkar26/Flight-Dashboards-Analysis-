@@ -63,18 +63,16 @@ It enables analysis of airline performance, route trends, and operational effici
 - Cancellation Rate by Carrier
 - Aircraft Type vs Punctuality
 
+<H2>✈️ Flight Operations Insights</H2>
 <H4>1️⃣ High Flight Volume</H4>
-
 - The dashboard reports around 15K flights, indicating a large and active flight dataset.
 
 <H4>2️⃣ Departure vs Arrival Patterns Are Consistent</H4>
-
 - Monthly trends show that Arrival and Departure counts closely match, suggesting:
 - Minimal diversions or route inconsistencies
 - Strong operational stability across months
 
 <H4>3️⃣ Seasonal Trend Observed</H4>
-
 - Peak in July & December for both arrivals and departures.
 - Likely due to summer vacations and holiday season / year-end travel.
 <img width="1357" height="733" alt="Screenshot 2025-11-21 004002" src="https://github.com/user-attachments/assets/04625740-ee2a-44a7-953a-bd20f8f8546e" />
