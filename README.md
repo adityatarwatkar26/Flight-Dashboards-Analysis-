@@ -127,12 +127,12 @@ It enables analysis of airline performance, route trends, and operational effici
 <H3>📊 Dashboard Insights</H3>
 
 - Overall Flight Data: The dashboard analyzes **6 Airlines** and shows data for **15,000** flights (Count of Aircraft Type).
-- Cancellation Rate: **$11.22K$ (74.77%)** of all flights are currently marked as 'Cancelled'. This is the dominant status, significantly higher than 'On Time' and 'Delayed' combined.
+- Cancellation Rate: **$11.22K$** **(74.77%)** of all flights are currently marked as **'Cancelled'**. This is the dominant status, significantly higher than **'On Time' and 'Delayed'** combined.
 - Average Delay: The overall Average of Delay Minutes is **$89.53$**.
 - Most Common Aircraft/Route:
    - The current filter is focused on the **A380 Aircraft** Type from **DEL (Delhi)** origin.
    - The most frequent route for the filtered **A380 from DEL is DEL $\rightarrow$ DXB (Dubai)** with a count of **420 flights**.
-- Destination Delay Comparison:Destinations appear to have a consistently high number of flight counts **(Count of Airline)** and maximum delay minutes **(Max of DelayMinutes)**, all clustered around the **$2K$** mark.
+- Destination Delay Comparison: Destinations appear to have a consistently high number of flight counts **(Count of Airline)** and maximum delay minutes **(Max of DelayMinutes)**, all clustered around the **$2K$** mark.
 - **JFK (New York)** is shown as the destination with the highest count, followed by **DEL (Delhi) and BOM (Mumbai)** among the top destinations displayed.
 
 <H1>✈️ Global Flight Analytics</H1> 
