@@ -13,3 +13,52 @@
 - Delay minutes & aircraft types
 
 It enables analysis of airline performance, route trends, and operational efficiency.
+
+<H3>🔍 Key Analytical Insights</H3>
+
+<H5>1️⃣ Flight Status Performance</H5>
+
+- Multiple flights show delays ranging from 8 to 135+ minutes
+- Presence of Cancelled flights, indicating operational disruptions
+- Breakdown can highlight:
+   - Most reliable airlines
+   - Airports contributing to frequent delays
+   - Peak cancellation months
+
+<H5>2️⃣ Route Traffic Insights</H5>
+
+- Routes include major international hubs such as:
+- LHR, DXB, FRA, BOM, BLR, DOH
+- Airport-specific operational behavior
+
+<H5>3️⃣ Airline Performance Comparison</H5>
+
+- Airlines like Lufthansa, Emirates, Air India, IndiGo operate on varied global routes
+- Analysis can reveal:
+   - Punctuality ranking
+   - Delay minutes by airline
+   - Network reach vs reliability trade-offs
+
+  <H5>4️⃣ Time-Based Trends</H5>
+
+- Dataset spans across three years (2023–2025)
+- Seasonal patterns can be studied:
+- Which months face maximum delays?
+- Pre-holiday rush vs Normal periods
+- Year-on-year performance improvement/decline
+
+  <H5>5️⃣ Aircraft Efficiency</H5>
+
+- Aircraft types include B737 & B787
+- Opportunity to examine:
+   - Model-wise delay behavior
+   - Load/capacity impact on punctuality
+ 
+<H2>🎯 Business Value & Use Cases</H2>
+
+<H6>Stakeholder</H6>         <H6>Value</H6>
+Airlines	                    Reduce delays, improve fleet planning
+Airports           	          Optimize traffic management & slot allocation
+Travelers	                    Gain awareness on best route/airline choices
+Analysts           	          Predict flight delays & disruptions
+Business Teams	              Performance benchmarking for strategy
