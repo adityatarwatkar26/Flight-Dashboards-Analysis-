@@ -95,9 +95,9 @@ It enables analysis of airline performance, route trends, and operational effici
 - Aircraft usage across destinations appears similar, suggesting:
 - Airlines deploy a uniform fleet strategy for multiple routes.
 
-<H4>⏱️ Flight Status & Operational Quality</H4>
+<H2>⏱️ Flight Status & Operational Quality</H2>
 
-<H2>6️⃣ Majority of Flights Are On Time</H2>
+<H4>6️⃣ Majority of Flights Are On Time</H4>
 
 - ~75% flights On-Time
 - ~20% Delayed
