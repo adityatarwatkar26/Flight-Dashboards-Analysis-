@@ -1,5 +1,7 @@
 # Flight-Dashboards-Analysis-
 
+<img width="545" height="307" alt="image" src="https://github.com/user-attachments/assets/d2b7361b-56e4-439e-a886-dd24d80e7907" />
+
 <H2>✈️ Project Insights — Flight Operations Dashboard (2023–2025)</H2>
 
 <H2>📌 Dataset Overview</H2>
