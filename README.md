@@ -4,7 +4,7 @@
 
 <H1>Tool Used :-</H1>
 
-<img width="265" height="311" alt="image" src="https://github.com/user-attachments/assets/0f2939ba-b1c4-472a-a023-c2d999f65bc9" />
+<img width="165" height="211" alt="image" src="https://github.com/user-attachments/assets/0f2939ba-b1c4-472a-a023-c2d999f65bc9" />
 
 <H2>✈️ Project Insights — Flight Operations Dashboard (2023–2025)</H2>
 
