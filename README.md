@@ -63,6 +63,9 @@ It enables analysis of airline performance, route trends, and operational effici
 - Cancellation Rate by Carrier
 - Aircraft Type vs Punctuality
 
+
+<img width="1357" height="733" alt="Screenshot 2025-11-21 004002" src="https://github.com/user-attachments/assets/c3bccc71-c318-41c0-8fc7-222bfcf380ff" />
+
 <H2>✈️ Flight Operations Insights</H2>
 
 <H4>1️⃣ High Flight Volume</H4>
@@ -80,8 +83,6 @@ It enables analysis of airline performance, route trends, and operational effici
 - Peak in July & December for both arrivals and departures.
 - Likely due to summer vacations and holiday season / year-end travel.
   
-<img width="1357" height="733" alt="Screenshot 2025-11-21 004002" src="https://github.com/user-attachments/assets/04625740-ee2a-44a7-953a-bd20f8f8546e" />
-
 <H2>🌍 Destination & Airline Performance Insights</H2>
 
 <H4>4️⃣ Major Flight Destinations Spread Across Key Global Hubs.</H4>
