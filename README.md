@@ -16,7 +16,7 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <H3>🔍 Key Analytical Insights</H3>
 
-<H5>1️⃣ Flight Status Performance</H5>
+<H4>1️⃣ Flight Status Performance</H4>
 
 - Multiple flights show delays ranging from 8 to 135+ minutes
 - Presence of Cancelled flights, indicating operational disruptions
@@ -25,21 +25,21 @@ It enables analysis of airline performance, route trends, and operational effici
    - Airports contributing to frequent delays
    - Peak cancellation months
 
-<H5>2️⃣ Route Traffic Insights</H5>
+<H4>2️⃣ Route Traffic Insights</H4>
 
 - Routes include major international hubs such as:
 - LHR, DXB, FRA, BOM, BLR, DOH
 - Airport-specific operational behavior
 
-<H5>3️⃣ Airline Performance Comparison</H5>
+<H4>3️⃣ Airline Performance Comparison</H4>
 
 - Airlines like Lufthansa, Emirates, Air India, IndiGo operate on varied global routes
 - Analysis can reveal:
    - Punctuality ranking
    - Delay minutes by airline
-   - Network reach vs reliability trade-offs
-
-  <H5>4️⃣ Time-Based Trends</H5>
+   - Network reach vs reliability trade-off
+   - 
+<H4>4️⃣ Time-Based Trends</H4>
 
 - Dataset spans across three years (2023–2025)
 - Seasonal patterns can be studied:
@@ -47,14 +47,14 @@ It enables analysis of airline performance, route trends, and operational effici
 - Pre-holiday rush vs Normal periods
 - Year-on-year performance improvement/decline
 
-  <H5>5️⃣ Aircraft Efficiency</H5>
+<H4>5️⃣ Aircraft Efficiency</H4>
 
 - Aircraft types include B737 & B787
 - Opportunity to examine:
    - Model-wise delay behavior
    - Load/capacity impact on punctuality
  
-<H5>📈 Possible Dashboard Metrics</H5>
+<H4>📈 Possible Dashboard Metrics</H4>
 
 - Delay Minutes by Airline & Route
 - Flight Status Distribution (On-Time vs Delayed vs Cancelled)
@@ -64,6 +64,7 @@ It enables analysis of airline performance, route trends, and operational effici
 - Aircraft Type vs Punctuality
 
 <H2>✈️ Flight Operations Insights</H2>
+
 <H4>1️⃣ High Flight Volume</H4>
 
 - The dashboard reports around 15K flights, indicating a large and active flight dataset.
