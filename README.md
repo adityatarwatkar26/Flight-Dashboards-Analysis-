@@ -82,7 +82,27 @@ It enables analysis of airline performance, route trends, and operational effici
   
 <img width="1357" height="733" alt="Screenshot 2025-11-21 004002" src="https://github.com/user-attachments/assets/04625740-ee2a-44a7-953a-bd20f8f8546e" />
 
+<H2>🌍 Destination & Airline Performance Insights</H2>
 
+<H4>4️⃣ Major Flight Destinations Spread Across Key Global Hubs.</H4>
+
+- Frequent destinations include JFK, DEL, BOM, DXB, LHR, FRA, DOH, BLR, showing:
+- Mix of international hubs (USA, UK, UAE, Qatar, Germany)
+- Strong traffic between India and major global aviation centers.
+
+<H4>5️⃣ Aircraft Type Distribution Is Balanced</H4>
+
+- Aircraft usage across destinations appears similar, suggesting:
+- Airlines deploy a uniform fleet strategy for multiple routes.
+
+<H4>⏱️ Flight Status & Operational Quality</H4>
+
+<H2>6️⃣ Majority of Flights Are On Time</H2>
+
+- ~75% flights On-Time
+- ~20% Delayed
+- Very few cancellations
+- Indicates efficient airline operation and good time management
 
 <H3>🚀 Final Summary</H3>
 
