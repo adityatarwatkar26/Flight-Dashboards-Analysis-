@@ -117,7 +117,21 @@ It enables analysis of airline performance, route trends, and operational effici
 - JFK, DEL, and BOM are the top destinations with the highest number of flights, showing strong international and domestic connectivity.
 - AircraftType usage count is around 15K, reflecting high and consistent fleet utilization across the airline network.
 - Data table confirms heavy flight operations throughout the day, supporting continuous international flight movements.
-- 
+
+<H1>⏱️ Flight Delay Metrics</H1>
+
+<img width="1322" height="735" alt="Screenshot 2025-11-21 004225" src="https://github.com/user-attachments/assets/0667abdb-9a18-4a68-a979-7bab8ed25c73" />
+
+📊 Dashboard Insights
+- Overall Flight Data: The dashboard analyzes 6 Airlines and shows data for 15,000 flights (Count of Aircraft Type).
+- Cancellation Rate: $11.22K$ (74.77%) of all flights are currently marked as 'Cancelled'. This is the dominant status, significantly higher than 'On Time' and 'Delayed' combined.
+- Average Delay: The overall Average of Delay Minutes is $89.53$.
+- Most Common Aircraft/Route:
+   - The current filter is focused on the A380 Aircraft Type from DEL (Delhi) origin.
+   - The most frequent route for the filtered A380 from DEL is DEL $\rightarrow$ DXB (Dubai) with a count of 420 flights.
+- Destination Delay Comparison:Destinations appear to have a consistently high number of flight counts (Count of Airline) and maximum delay minutes (Max of DelayMinutes), all clustered around the $2K$ mark.
+- JFK (New York) is shown as the destination with the highest count, followed by DEL (Delhi) and BOM (Mumbai) among the top destinations displayed.
+
 <H3>🚀 Final Summary</H3>
 
 This dataset allows comprehensive analysis of global flight efficiency, helping stakeholders make data-driven decisions for improving aviation operations. With Power BI or any BI tool, this can be transformed into a high-value operational dashboard.
