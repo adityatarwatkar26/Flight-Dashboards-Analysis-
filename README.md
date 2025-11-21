@@ -133,6 +133,7 @@ It enables analysis of airline performance, route trends, and operational effici
 - Destination Delay Comparison:Destinations appear to have a consistently high number of flight counts (Count of Airline) and maximum delay minutes (Max of DelayMinutes), all clustered around the $2K$ mark.
 - JFK (New York) is shown as the destination with the highest count, followed by DEL (Delhi) and BOM (Mumbai) among the top destinations displayed.
 
+<H1>✈️ Global Flight Analytics</H1> 
 
 <img width="1318" height="736" alt="Screenshot 2025-11-21 004307" src="https://github.com/user-attachments/assets/71ff3470-177f-4cc5-b264-c486bbbc4932" />
 
