@@ -24,7 +24,7 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <H4>1️⃣ Flight Status Performance</H4>
 
-- Multiple flights show delays ranging from 8 to 135+ minutes
+- Multiple flights show delays ranging from **8 to 135+** minutes
 - Presence of Cancelled flights, indicating operational disruptions
 - Breakdown can highlight:
    - Most reliable airlines
@@ -34,12 +34,12 @@ It enables analysis of airline performance, route trends, and operational effici
 <H4>2️⃣ Route Traffic Insights</H4>
 
 - Routes include major international hubs such as:
-- LHR, DXB, FRA, BOM, BLR, DOH
+- **LHR, DXB, FRA, BOM, BLR, DOH**
 - Airport-specific operational behavior
 
 <H4>3️⃣ Airline Performance Comparison</H4>
 
-- Airlines like Lufthansa, Emirates, Air India, IndiGo operate on varied global routes
+- Airlines like **Lufthansa, Emirates, Air India, IndiGo** operate on varied global routes
 - Analysis can reveal:
    - Punctuality ranking
    - Delay minutes by airline
@@ -47,7 +47,7 @@ It enables analysis of airline performance, route trends, and operational effici
      
 <H4>4️⃣ Time-Based Trends</H4>
 
-- Dataset spans across three years (2023–2025)
+- Dataset spans across three years **(2023–2025)**
 - Seasonal patterns can be studied:
 - Which months face maximum delays?
 - Pre-holiday rush vs Normal periods
@@ -55,7 +55,7 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <H4>5️⃣ Aircraft Efficiency</H4>
 
-- Aircraft types include B737 & B787
+- Aircraft types include **B737 & B787**
 - Opportunity to examine:
    - Model-wise delay behavior
    - Load/capacity impact on punctuality
