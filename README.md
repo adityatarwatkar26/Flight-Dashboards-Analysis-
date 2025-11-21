@@ -133,6 +133,22 @@ It enables analysis of airline performance, route trends, and operational effici
 - Destination Delay Comparison:Destinations appear to have a consistently high number of flight counts (Count of Airline) and maximum delay minutes (Max of DelayMinutes), all clustered around the $2K$ mark.
 - JFK (New York) is shown as the destination with the highest count, followed by DEL (Delhi) and BOM (Mumbai) among the top destinations displayed.
 
+
+<img width="1318" height="736" alt="Screenshot 2025-11-21 004307" src="https://github.com/user-attachments/assets/71ff3470-177f-4cc5-b264-c486bbbc4932" />
+
+<H3>✈️ Key Dashboard Insights</H3>
+
+- Total Origins: The dashboard is analyzing data from 8 different origins (implied by the "Count of Origin" card).
+- Top Destinations: The data focuses on flights to 7 major international destinations: BLR (Bengaluru), DEL (Delhi), DXB (Dubai), JFK (New York), BOM (Mumbai), DOH (Doha), and FRA (Frankfurt), and LHR (London).
+- Dominant Aircraft Type: The B787 and B777 appear to be the most common aircraft types used across all major airlines listed (Air India, Emirates, IndiGo, Lufthansa, Qatar Airways, United Airlines).
+  
+<H3>Airline Presence & Route Focus (Map):</H3>
+
+  - North America/Europe: There's significant presence of United Airlines (purple), Lufthansa (red/maroon), and potentially Air India/Emirates/IndiGo (blue/dark blue/magenta) on routes connecting to Europe (FRA, LHR) and North America (JFK).
+  - Middle East/Asia: Emirates (light purple), Qatar Airways (blue), and IndiGo/Air India (magenta/dark blue) have a strong presence on routes connecting to Asia (BOM, DEL, BLR) and the Middle East (DXB, DOH).
+- Status/Performance: The overall status is focused on "On Time" performance, suggesting the primary metric of interest is punctuality. 
+- Departure/Arrival Times: The right-hand column provides highly granular data showing arrival times occurring throughout the day for flights that departed shortly after midnight (12:00 AM, 12:01 AM, 12:02 AM, 12:03 AM, etc.).
+- 
 <H3>🚀 Final Summary</H3>
 
 This dataset allows comprehensive analysis of global flight efficiency, helping stakeholders make data-driven decisions for improving aviation operations. With Power BI or any BI tool, this can be transformed into a high-value operational dashboard.
