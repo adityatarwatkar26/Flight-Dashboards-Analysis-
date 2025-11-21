@@ -122,7 +122,8 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <img width="1322" height="735" alt="Screenshot 2025-11-21 004225" src="https://github.com/user-attachments/assets/0667abdb-9a18-4a68-a979-7bab8ed25c73" />
 
-📊 Dashboard Insights
+<H3>📊 Dashboard Insights</H3>
+
 - Overall Flight Data: The dashboard analyzes 6 Airlines and shows data for 15,000 flights (Count of Aircraft Type).
 - Cancellation Rate: $11.22K$ (74.77%) of all flights are currently marked as 'Cancelled'. This is the dominant status, significantly higher than 'On Time' and 'Delayed' combined.
 - Average Delay: The overall Average of Delay Minutes is $89.53$.
