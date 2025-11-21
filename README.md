@@ -75,7 +75,7 @@ It enables analysis of airline performance, route trends, and operational effici
 
 <H4>2️⃣ Departure vs Arrival Patterns Are Consistent</H4>
 
-- Monthly trends show that Arrival and Departure counts closely match, suggesting:
+- Monthly trends show that Arrival and Departure counts closely match.
 - Minimal diversions or route inconsistencies
 - Strong operational stability across months
 
