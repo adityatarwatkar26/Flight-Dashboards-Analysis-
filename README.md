@@ -54,11 +54,15 @@ It enables analysis of airline performance, route trends, and operational effici
    - Model-wise delay behavior
    - Load/capacity impact on punctuality
  
-<H2>🎯 Business Value & Use Cases</H2>
+<H5>📈 Possible Dashboard Metrics</H5>
 
-<H6>Stakeholder</H6>         <H6>Value</H6>
-Airlines	                    Reduce delays, improve fleet planning
-Airports           	          Optimize traffic management & slot allocation
-Travelers	                    Gain awareness on best route/airline choices
-Analysts           	          Predict flight delays & disruptions
-Business Teams	              Performance benchmarking for strategy
+- Delay Minutes by Airline & Route
+- Flight Status Distribution (On-Time vs Delayed vs Cancelled)
+- Top 10 Most Delayed Airports
+- Year-wise Delay Trend
+- Cancellation Rate by Carrier
+- Aircraft Type vs Punctuality
+
+  <H3>🚀 Final Summary</H3>
+
+This dataset allows comprehensive analysis of global flight efficiency, helping stakeholders make data-driven decisions for improving aviation operations. With Power BI or any BI tool, this can be transformed into a high-value operational dashboard.
